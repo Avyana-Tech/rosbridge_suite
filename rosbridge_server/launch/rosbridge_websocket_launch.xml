@@ -1,7 +1,7 @@
 <launch>
   <arg name="port" default="9090" />
   <arg name="address" default="" />
-  <arg name="ssl" default="false" />
+  <arg name="ssl" default="true" />
   <arg name="certfile" default=""/>
   <arg name="keyfile" default="" />
 
